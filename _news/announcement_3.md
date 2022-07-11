@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-01-18 07:59:00-0400
+date: 2022-03-18 07:59:00-0400
 inline: true
 ---
 
-I joined the University of Texas at El Paso's M.S. in physics program.
+I presented a talk at APS's March meeting in Chicago, Illinois: "A Novel Pathway from DFT to CI".
