@@ -1,3 +1,3 @@
 git add --all
-git commit -m 'updating picture2'
+git commit -m 'updating news'
 git push --all
