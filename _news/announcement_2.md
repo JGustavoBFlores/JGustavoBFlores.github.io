@@ -4,4 +4,4 @@ date: 2020-09-04 15:59:00-0400
 inline: true
 ---
 
-Bachelor's thesis defense: "Simulations of Quantum Tunneling for Gaussian Wave Packages".
+I joined the University of Texas at El Paso's M.S. in physics program.
