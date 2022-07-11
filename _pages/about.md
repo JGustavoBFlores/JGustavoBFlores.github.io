@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Mexican physicist, interested in developing new computational tools for physical research. 
-Currently working on the development of new features for the NRLMOL (Naval Research Laboratory Molecular Library), a DFT code, under the advisory of <a href='https://expertise.utep.edu/profiles/mrpederson'> Dr. Mark Pederson</a>.
+Currently working on building new features for NRLMOL (Naval Research Laboratory Molecular Library), a DFT code, under the advisory of <a href='https://expertise.utep.edu/profiles/mrpederson'> Dr. Mark Pederson</a>.
 
 This website is still under development! Please ignore the obvious placeholders.
