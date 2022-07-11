@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: 3.jpg
+  image: prof.jpg
   address: >
     <p>Molecular Magnetism and Quantum Theory Lab</p>
     <p>500 W. University Ave.</p>
