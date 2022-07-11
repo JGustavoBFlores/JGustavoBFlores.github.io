@@ -1,3 +1,3 @@
 git add --all
-git commit -m 'enabling picture'
+git commit -m 'updating picture'
 git push --all
