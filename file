@@ -46,10 +46,9 @@ announcement_3.md
 
 _pages:
 about.md
-dropdown.md
+cv.md
 projects.md
 publications.md
-teaching.md
 
 _plugins:
 external-posts.rb
