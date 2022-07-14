@@ -5,7 +5,7 @@ title: publications
 description: list of publications, talks and thesis presented by Gustavo Bravo.
 years: [2020,2022]
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
