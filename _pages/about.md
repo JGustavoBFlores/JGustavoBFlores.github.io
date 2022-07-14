@@ -22,4 +22,6 @@ Currently working on building new features for NRLMOL (Naval Research Laboratory
 
 I earned a bachelors degree in physics from the University of Sonora in 2020. Joined the University of Texas at El Paso in 2021 to pursue a M.S. in physics as well. 
 
+An updated copy of my CV is available <a href='https://jgustavobflores.github.io/assets/pdf/UGThesis.pdf'>here</a>.
+
 This website is still under development! Please ignore the obvious placeholders.
