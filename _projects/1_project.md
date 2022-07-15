@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Learning FORTRAN by practicing! 
+description: Learn FORTRAN by developing small projects.
+img: 
 importance: 1
-category: work
+category: learning
 ---
 
 Every project has a beautiful feature showcase page.
