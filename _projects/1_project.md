@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning FORTRAN by practicing! 
+title: Learning FORTRAN by Experimenting! 
 description: Learn FORTRAN by playing with codes and writing your own!
 img: 
 importance: 1
