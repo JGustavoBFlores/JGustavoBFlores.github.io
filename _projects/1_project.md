@@ -17,6 +17,6 @@ This course is separated in 4 sections:
    <li>Formats, files and everything: How to use formats, write and read from files, and a final project that would use everything that has been learned.</li> 
 </ul> 
 
-The idea is that the person interested in learning will not only write code but experiment with itby doing several changes in order to see what happens and have a better understanding on how FORTRAN works. 
+The idea is that the person interested in learning will not only write code but experiment with it by doing several changes in order to see what happens and have a better understanding on how FORTRAN works. 
 
-This is an introductory course, I am not aiming for the student to become a master of FORTRAN but instead, it'd be a strong starting point for anyone interested in learning this beautiful language.
+This is an introductory course, I am not aiming for the student to become a master of FORTRAN but instead, this will be a strong starting point for anyone interested in learning this beautiful language.
