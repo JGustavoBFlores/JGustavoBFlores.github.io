@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Learning FORTRAN by Experimenting! 
-description: Learn FORTRAN by playing with codes and writing your own!
+title: Learning FORTRAN by Experimenting  
+description: Learn FORTRAN by editing existing codes and writing your own!
 img: 
 importance: 1
 category: learning
