@@ -1,11 +1,9 @@
 ---
-layout: about
+layout: page
+permalink: /research/
 title: research
-permalink: /
-subtitle: hello there!
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+description: Cooming Soon
+nav: true
+nav_order: 1
 ---
-
+ 

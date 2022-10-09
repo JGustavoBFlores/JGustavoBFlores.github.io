@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Links and brief descriptions of some of my projects.
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: [teaching]
 horizontal: false
 ---
