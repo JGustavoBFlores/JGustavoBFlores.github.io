@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a mexican physicist, outerested in developing new computational tools for multidisciplinary research. 
+I am a mexican physicist, interested in developing new computational tools for multidisciplinary research. 
 
 I earned a bachelors degree in physics from the University of Sonora in 2020, as well as a Master of Science in physics from the University of Texas at El Paso in 2023. I joined Northeastern University on September 2023 as a Physics PhD student.
 
